@@ -1,0 +1,25 @@
+.mainDiv{
+Width: 80%;
+background-color: pink;
+padding: 20px;
+}
+.formDiv{
+width: 90%;
+background-colour: skyblue;
+padding: 20px;
+}
+
+input{
+width: 100%;
+margin-bottom: 10px;
+padding:10px;
+}
+
+button{
+background-color: green;
+color: White;
+padding:10px;
+width: 100%;
+border: none;
+border-radius: 5px;
+}
